@@ -26,7 +26,7 @@ var CompanyController=function(req, res){
 
 app.get('/companyEmpInfo',CompanyController);
 
-var server = app.listen(8087, function () {
+var server = app.listen(8086, function () {
   var host = server.address().address
   var port = server.address().port
   console.log("Hello vishal u'r  app listening at http://localhost:8087", host, port)
