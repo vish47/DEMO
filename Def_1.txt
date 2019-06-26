@@ -1,0 +1,33 @@
+ 1) Rockwell automation inc. has head quarter in london and  offshore
+ developement center. and there is 35000 employees all over world.
+ and they have there own private cloud for It solution.
+ but company growth of all sector and they want to use amozon Web 
+ Service .
+ so all employee should be able to access ther human resource portal 
+ from any where the world. 
+ company want to host there information System in public Cloud 
+ (Aws Or google Cloud)
+
+
+
+
+
+ 2)Function AND Non-Functional Requirementy
+
+ NoN Functional
+
+ 1) Availability
+ 2) accessibility
+ 3) Scalabality
+ 4) security
+ 5) mainatanabity
+
+
+ Functinal
+  
+ Root Function
+  
+ 1) Aws or Google Cloud (Register company on cloud  )
+ 
+ 2) 
+
